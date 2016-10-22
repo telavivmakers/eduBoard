@@ -82,13 +82,13 @@
      fit-margin-left="50"
      fit-margin-bottom="50"
      fit-margin-right="50"
-     inkscape:zoom="2.7388403"
-     inkscape:cx="238.17194"
-     inkscape:cy="239.92624"
+     inkscape:zoom="7.7466103"
+     inkscape:cx="386.36994"
+     inkscape:cy="295.61983"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g44677"><inkscape:grid
+     inkscape:current-layer="layer1"><inkscape:grid
        type="xygrid"
        id="grid34158"
        originx="-481.225"
@@ -12164,17 +12164,17 @@
            style="fill:none;stroke:#000000;stroke-width:0.12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 736.98,295.34 -311.64,0" /></g><text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="512.13373"
-         y="-366.4744"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:'5x5 Pixel';-inkscape-font-specification:'5x5 Pixel, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         x="450.20972"
+         y="-364.42975"
          id="text7434"
          sodipodi:linespacing="125%"
          transform="scale(1,-1)"><tspan
            sodipodi:role="line"
            id="tspan7436"
-           x="512.13373"
-           y="-366.4744"
-           style="font-size:8px">github.com/telavivmakers/eduBoard</tspan></text>
+           x="450.20972"
+           y="-364.42975"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:'5x5 Pixel';-inkscape-font-specification:'5x5 Pixel, Normal';text-align:start;writing-mode:lr;text-anchor:start;">github.com/telavivmakers/eduBoard</tspan></text>
 <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 706.04763,526.54555 c 0,0.29209 0.14605,8.54376 0.14605,8.54376"
@@ -12193,7 +12193,7 @@
      inkscape:label="DocumentPins"
      style="display:inline"><text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.61455154px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:6.61450028px;line-height:125%;font-family:'5x5 Pixel';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'5x5 Pixel, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
        x="49.363285"
        y="309.94135"
        id="text9387"
@@ -12204,18 +12204,18 @@
          y="309.94135">Keys: A0</tspan></text>
 <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.79248857px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="80.964432"
-       y="359.15076"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81449986px;line-height:125%;font-family:'5x5 Pixel';-inkscape-font-specification:'5x5 Pixel, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="83.158943"
+       y="359.40894"
        id="text9391"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="80.964432"
-         y="359.15076"
+         x="83.158943"
+         y="359.40894"
          id="tspan9395">Encoder: A(clk):7  B(dt):6  SW:8</tspan></text>
 <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.79248857px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:4.81449991px;line-height:125%;font-family:'5x5 Pixel';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'5x5 Pixel, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
        x="56.722603"
        y="359.46805"
        id="text9397"
@@ -12227,20 +12227,20 @@
 <text
        sodipodi:linespacing="125%"
        id="text9412"
-       y="360.33142"
-       x="312.85907"
-       style="font-style:normal;font-weight:normal;font-size:5.34043932px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       y="360.55731"
+       x="305.27512"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34049988px;line-height:125%;font-family:'5x5 Pixel';-inkscape-font-specification:'5x5 Pixel, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan9416"
-         y="360.33142"
-         x="312.85907"
+         y="360.55731"
+         x="305.27512"
          sodipodi:role="line">Encoder: A(clk):29  B(dt):31  SW:33</tspan></text>
 <text
        sodipodi:linespacing="125%"
        id="text9418"
        y="360.58893"
        x="413.32156"
-       style="font-style:normal;font-weight:normal;font-size:4.80334568px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:4.80337501px;line-height:125%;font-family:'5x5 Pixel';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'5x5 Pixel, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
        xml:space="preserve"><tspan
          y="360.58893"
          x="413.32156"
@@ -12248,7 +12248,7 @@
          sodipodi:role="line">Pot: A3</tspan></text>
 <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.85838604px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81449986px;line-height:125%;font-family:'5x5 Pixel';-inkscape-font-specification:'5x5 Pixel, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="58.774998"
        y="331.01547"
        id="text9422"
@@ -12259,11 +12259,11 @@
          y="331.01547">MUX: S0:28, S1:22,</tspan><tspan
          sodipodi:role="line"
          x="58.774998"
-         y="337.08844"
-         id="tspan9473">  S2:24 S3:26 SIG(I/O):23</tspan></text>
+         y="338.0733"
+         id="tspan9473">  S2:24     S3:26     SIG(I/O):23</tspan></text>
 <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.76623678px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:'5x5 Pixel';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'5x5 Pixel, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
        x="406.76224"
        y="175.1861"
        id="text9426"
@@ -12274,7 +12274,7 @@
          y="175.1861">Keys: A1</tspan></text>
 <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.7021718px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'5x5 Pixel';-inkscape-font-specification:'5x5 Pixel, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="72.532494"
        y="-412.42078"
        id="text9430"
@@ -12283,10 +12283,10 @@
          sodipodi:role="line"
          id="tspan9432"
          x="72.532494"
-         y="-412.42078">LED: R:45 G:44 B:46</tspan></text>
+         y="-412.42078">LED: R:45     G:44      B:46</tspan></text>
 <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:'5x5 Pixel';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'5x5 Pixel, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
        x="74.483368"
        y="-70.899986"
        id="text9449"
@@ -12296,10 +12296,10 @@
          id="tspan9451"
          x="74.483368"
          y="-70.899986"
-         style="font-size:4.375px">LED: R:11 G:10 B:9</tspan></text>
+         style="font-size:5px;-inkscape-font-specification:'5x5 Pixel, Normal';font-family:'5x5 Pixel';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">LED: R:11 G:10 B:9</tspan></text>
 <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.36132765px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.36137486px;line-height:125%;font-family:'5x5 Pixel';-inkscape-font-specification:'5x5 Pixel, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="95.008179"
        y="81.468285"
        id="text9453"
@@ -12308,27 +12308,27 @@
          id="tspan9455"
          x="95.008179"
          y="81.468285"
-         style="font-size:4.77020264px">LED connected</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.36137486px;line-height:125%;font-family:'5x5 Pixel';-inkscape-font-specification:'5x5 Pixel, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">LED  connected</tspan><tspan
          sodipodi:role="line"
          x="95.008179"
-         y="87.389122"
+         y="86.920006"
          id="tspan9457"
-         style="font-size:4.77020264px">to PWM driver.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.36137486px;line-height:125%;font-family:'5x5 Pixel';-inkscape-font-specification:'5x5 Pixel, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">to   PWM   driver.</tspan><tspan
          sodipodi:role="line"
          x="95.008179"
-         y="93.309967"
+         y="93.31356"
          id="tspan9459"
-         style="font-size:4.77020264px">R:15</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.36137486px;line-height:125%;font-family:'5x5 Pixel';-inkscape-font-specification:'5x5 Pixel, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">R:15</tspan><tspan
          sodipodi:role="line"
          x="95.008179"
-         y="99.230804"
+         y="99.707123"
          id="tspan9461"
-         style="font-size:4.77020264px">G:14</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.36137486px;line-height:125%;font-family:'5x5 Pixel';-inkscape-font-specification:'5x5 Pixel, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">G:14</tspan><tspan
          sodipodi:role="line"
          x="95.008179"
-         y="105.15165"
+         y="106.10068"
          id="tspan9463"
-         style="font-size:4.77020264px">B:13</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.36137486px;line-height:125%;font-family:'5x5 Pixel';-inkscape-font-specification:'5x5 Pixel, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">B:13</tspan></text>
 <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -12342,15 +12342,15 @@
          y="239.00214">RESET</tspan></text>
 <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="92"
-       y="248.12714"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'5x5 Pixel';-inkscape-font-specification:'5x5 Pixel, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="87.481895"
+       y="246.19081"
        id="text9469"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9471"
-         x="92"
-         y="248.12714">LCD Back Light</tspan></text>
+         x="87.481895"
+         y="246.19081">LCD   Back   Light</tspan></text>
 <path
        style="fill:#000000;fill-rule:evenodd;stroke:none"
        d="m 112.775,332.12714 5,-7.52607 -10,0 z"
@@ -12365,7 +12365,7 @@
        inkscape:original-d="m 331.75,330.00214 6.025,0"
        inkscape:connector-curvature="0" /><text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.87424707px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:'5x5 Pixel';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'5x5 Pixel, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
        x="340.125"
        y="328.66635"
        id="text9483"
