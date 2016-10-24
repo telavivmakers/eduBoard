@@ -1,2 +1,2 @@
 # eduBoard
-calss board
+class board
