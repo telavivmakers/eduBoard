@@ -5611,9 +5611,9 @@ by exp-lbrs.ulp</description>
 <pinref part="JP6" gate="A" pin="7"/>
 </segment>
 <segment>
-<pinref part="R1" gate="G$1" pin="1"/>
-<wire x1="7.62" y1="134.62" x2="7.62" y2="124.46" width="0.1524" layer="91"/>
-<label x="7.62" y="124.46" size="1.778" layer="95" rot="R90"/>
+<pinref part="R2" gate="G$1" pin="1"/>
+<wire x1="12.7" y1="132.08" x2="12.7" y2="124.46" width="0.1524" layer="91"/>
+<label x="12.7" y="124.46" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="PB4" class="0">
@@ -5623,9 +5623,9 @@ by exp-lbrs.ulp</description>
 <pinref part="JP6" gate="A" pin="8"/>
 </segment>
 <segment>
-<pinref part="R2" gate="G$1" pin="1"/>
-<wire x1="12.7" y1="132.08" x2="12.7" y2="124.46" width="0.1524" layer="91"/>
-<label x="12.7" y="124.46" size="1.778" layer="95" rot="R90"/>
+<pinref part="R1" gate="G$1" pin="1"/>
+<wire x1="7.62" y1="134.62" x2="7.62" y2="124.46" width="0.1524" layer="91"/>
+<label x="7.62" y="124.46" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="PE5" class="0">
