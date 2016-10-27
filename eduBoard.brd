@@ -8,15 +8,15 @@
 </settings>
 <grid distance="20" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
-<layer number="18" name="Vias" color="14" fill="1" visible="yes" active="yes"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="yes"/>
+<layer number="18" name="Vias" color="14" fill="1" visible="no" active="yes"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="22" name="bPlace" color="7" fill="1" visible="no" active="yes"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
@@ -256,7 +256,7 @@
 <text x="74.295" y="59.436" size="1.4224" layer="21" font="vector" ratio="12" rot="R90">19</text>
 <text x="76.835" y="59.436" size="1.4224" layer="21" font="vector" ratio="12" rot="R90">20</text>
 <text x="79.375" y="59.436" size="1.4224" layer="21" font="vector" ratio="12" rot="R90">21</text>
-<text x="85.852" y="52.959" size="1.1176" layer="25" font="vector" ratio="20" rot="R180">5V</text>
+<text x="85.344" y="65.659" size="1.1176" layer="25" font="vector" ratio="20" rot="R180">5V</text>
 <text x="89.916" y="17.78" size="1.4224" layer="25" font="vector" ratio="12">GND</text>
 <text x="82.55" y="60.325" size="1.4224" layer="21" font="vector" ratio="12">22</text>
 <text x="82.55" y="57.785" size="1.4224" layer="21" font="vector" ratio="12">24</text>
